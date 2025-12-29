@@ -30,6 +30,10 @@ Developed using **Streamlit + Groq API + Python**.
 ## 🛠 Tech Stack
 
 | Component | Technology Used |
+
+https://github.com/user-attachments/assets/c44a4414-13e7-474e-ac74-bef34bb9a110
+
+
 |----------|-----------------|
 | Frontend | Streamlit |
 | Backend | Groq Chat Completion API |
